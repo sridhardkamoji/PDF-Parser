@@ -1,0 +1,631 @@
+{
+    "document_name": "Income_Tax_Guidelines_for_Exemptions.pdf",
+    "local_doc_path": "C:\\Users\\Sridhar Kamoji\\Python\\Pdf_Parser\\data\\uploads\\Income_Tax_Guidelines_for_Exemptions.pdf",
+    "table_of_contentx_(toc)": [
+        {
+            "page": 1,
+            "text": "A ready reckoner for Investment Declarations ",
+            "header_tag_md": NaN
+        },
+        {
+            "page": 1,
+            "text": "Income Tax Guidelines for FY 2023-24 ",
+            "header_tag_md": "h2"
+        },
+        {
+            "page": 2,
+            "text": "Table of contents ",
+            "header_tag_md": NaN
+        },
+        {
+            "page": 2,
+            "text": "Contents ",
+            "header_tag_md": NaN
+        },
+        {
+            "page": 2,
+            "text": "1. New Tax Regime............................................................................................................................................... 4 ",
+            "header_tag_md": NaN
+        },
+        {
+            "page": 2,
+            "text": "2. Disallowed exemptions .................................................................................................................................. 5 ",
+            "header_tag_md": NaN
+        },
+        {
+            "page": 2,
+            "text": "3. Allowable exemptions .................................................................................................................................... 5 ",
+            "header_tag_md": NaN
+        },
+        {
+            "page": 2,
+            "text": "4. Traditional Tax Regime (Old): ....................................................................................................................... 6 ",
+            "header_tag_md": NaN
+        },
+        {
+            "page": 2,
+            "text": "5. Allowable exemptions .................................................................................................................................... 7 ",
+            "header_tag_md": NaN
+        },
+        {
+            "page": 2,
+            "text": "5.1. HRA Exemption u/s 10(13A): ............................................................................................................ 7 ",
+            "header_tag_md": NaN
+        },
+        {
+            "page": 2,
+            "text": "5.2. House Property Exemptions .............................................................................................................. 7 ",
+            "header_tag_md": NaN
+        },
+        {
+            "page": 2,
+            "text": "5.3. Deductions allowed under Section 80 C ",
+            "header_tag_md": NaN
+        },
+        {
+            "page": 2,
+            "text": "......................................................................................... 9 ",
+            "header_tag_md": NaN
+        },
+        {
+            "page": 2,
+            "text": "5.4. Investment in Pension Scheme of LIC or any other insurer  ",
+            "header_tag_md": NaN
+        },
+        {
+            "page": 2,
+            "text": "(e.g. Jeevan Suraksha of LIC or any other Pension Plan) u/s 80 CCC .................................. 10 ",
+            "header_tag_md": NaN
+        },
+        {
+            "page": 2,
+            "text": "5.5. Investment in pension scheme created by Government of India u/s 80CCD .................... 10 ",
+            "header_tag_md": NaN
+        },
+        {
+            "page": 2,
+            "text": "5.6. Investment in Agnipath Scheme u/s 80CCH .............................................................................. 10 ",
+            "header_tag_md": NaN
+        },
+        {
+            "page": 2,
+            "text": "5.7. Mediclaim Insurance Premium u/s 80 D ....................................................................................... 11 ",
+            "header_tag_md": NaN
+        },
+        {
+            "page": 2,
+            "text": "5.8. Deduction in respect of maintenance, including medical treatment, of a  ",
+            "header_tag_md": NaN
+        },
+        {
+            "page": 2,
+            "text": "disabled dependent ........................................................................................................................... 11 ",
+            "header_tag_md": NaN
+        },
+        {
+            "page": 2,
+            "text": "5.9. Deduction in respect of person with disability u/s 80U ......................................................... 12 ",
+            "header_tag_md": NaN
+        },
+        {
+            "page": 2,
+            "text": "5.10. Interest on Education Loan u/s 80E ",
+            "header_tag_md": NaN
+        },
+        {
+            "page": 2,
+            "text": ".............................................................................................. 12 ",
+            "header_tag_md": NaN
+        },
+        {
+            "page": 2,
+            "text": "5.11. Interest on electric vehicle Loan. (Section 80EEB) ",
+            "header_tag_md": NaN
+        },
+        {
+            "page": 2,
+            "text": ".................................................................. 12 ",
+            "header_tag_md": NaN
+        },
+        {
+            "page": 2,
+            "text": "5.12. Deductions for Rent Paid (Section 80GG) .................................................................................. 12 ",
+            "header_tag_md": NaN
+        },
+        {
+            "page": 2,
+            "text": "6. COMMON / GENERAL DETAILS ............................................................................................................... 13 ",
+            "header_tag_md": NaN
+        },
+        {
+            "page": 2,
+            "text": "6.1. Previous Employer Income ............................................................................................................... 13 ",
+            "header_tag_md": NaN
+        },
+        {
+            "page": 2,
+            "text": "6.2. Previous Employer PT........................................................................................................................ 13 ",
+            "header_tag_md": NaN
+        },
+        {
+            "page": 2,
+            "text": "6.3. Tax Deducted by Previous Employer ............................................................................................ 13 ",
+            "header_tag_md": NaN
+        },
+        {
+            "page": 2,
+            "text": "6.4. Provident Fund Taxation .................................................................................................................. 13 ",
+            "header_tag_md": NaN
+        },
+        {
+            "page": 4,
+            "text": "1. New Tax Regime  ",
+            "header_tag_md": "h3"
+        },
+        {
+            "page": 5,
+            "text": "2. Disallowed exemptions ",
+            "header_tag_md": "h3"
+        },
+        {
+            "page": 5,
+            "text": "3. Allowable exemptions ",
+            "header_tag_md": "h3"
+        },
+        {
+            "page": 6,
+            "text": "4. Traditional Tax Regime (Old): ",
+            "header_tag_md": "h3"
+        },
+        {
+            "page": 7,
+            "text": "5. Allowable exemptions  ",
+            "header_tag_md": "h3"
+        },
+        {
+            "page": 7,
+            "text": "5.1. HRA Exemption u/s 10(13A):  ",
+            "header_tag_md": "h5"
+        },
+        {
+            "page": 7,
+            "text": "5.2. House Property Exemptions  ",
+            "header_tag_md": "h5"
+        },
+        {
+            "page": 9,
+            "text": "5.3. Deductions allowed under Section 80 C  ",
+            "header_tag_md": "h5"
+        },
+        {
+            "page": 10,
+            "text": "5.4. Investment in Pension Scheme of LIC or any other insurer ",
+            "header_tag_md": "h5"
+        },
+        {
+            "page": 10,
+            "text": "(e.g. Jeevan Suraksha of LIC or any other Pension Plan) u/s ",
+            "header_tag_md": "h5"
+        },
+        {
+            "page": 10,
+            "text": "80 CCC  ",
+            "header_tag_md": "h5"
+        },
+        {
+            "page": 10,
+            "text": "5.5. Investment in pension scheme created by Government of ",
+            "header_tag_md": "h5"
+        },
+        {
+            "page": 10,
+            "text": "India u/s 80CCD ",
+            "header_tag_md": "h5"
+        },
+        {
+            "page": 10,
+            "text": "5.6. Investment in Agnipath Scheme u/s 80CCH ",
+            "header_tag_md": "h5"
+        },
+        {
+            "page": 11,
+            "text": "5.7. Mediclaim Insurance Premium u/s 80 D  ",
+            "header_tag_md": "h5"
+        },
+        {
+            "page": 11,
+            "text": "5.8. Deduction in respect of maintenance, including medical ",
+            "header_tag_md": "h5"
+        },
+        {
+            "page": 11,
+            "text": "treatment, of a disabled dependent  ",
+            "header_tag_md": "h5"
+        },
+        {
+            "page": 12,
+            "text": "5.9. Deduction in respect of person with disability u/s 80U  ",
+            "header_tag_md": "h5"
+        },
+        {
+            "page": 12,
+            "text": "5.10. ",
+            "header_tag_md": "h5"
+        },
+        {
+            "page": 12,
+            "text": "Interest on Education Loan u/s 80E  ",
+            "header_tag_md": "h5"
+        },
+        {
+            "page": 12,
+            "text": "5.11. ",
+            "header_tag_md": "h5"
+        },
+        {
+            "page": 12,
+            "text": "Interest on electric vehicle Loan. (Section 80EEB)  ",
+            "header_tag_md": "h5"
+        },
+        {
+            "page": 12,
+            "text": "5.12. ",
+            "header_tag_md": "h5"
+        },
+        {
+            "page": 12,
+            "text": "Deductions for Rent Paid (Section 80GG)  ",
+            "header_tag_md": "h5"
+        },
+        {
+            "page": 13,
+            "text": "6. COMMON / GENERAL DETAILS  ",
+            "header_tag_md": "h4"
+        },
+        {
+            "page": 13,
+            "text": "6.1. Previous Employer Income  ",
+            "header_tag_md": "h5"
+        },
+        {
+            "page": 13,
+            "text": "6.2. Previous Employer PT  ",
+            "header_tag_md": "h5"
+        },
+        {
+            "page": 13,
+            "text": "6.3. Tax Deducted by Previous Employer  ",
+            "header_tag_md": "h5"
+        },
+        {
+            "page": 13,
+            "text": "6.4. Provident Fund Taxation ",
+            "header_tag_md": "h5"
+        },
+        {
+            "page": 14,
+            "text": "Thank you ",
+            "header_tag_md": "h1"
+        }
+    ],
+    "tables": [
+        {
+            "page": 1,
+            "tables": []
+        },
+        {
+            "page": 2,
+            "tables": []
+        },
+        {
+            "page": 3,
+            "tables": []
+        },
+        {
+            "page": 4,
+            "tables": [
+                "|TAX RATES: The same rate table applies to all individuals super senior citizen limits under the new tax regime.|Col2|Col3|(irrespective of the age group) Thus there are no senior or|Col5|Col6|\n|---|---|---|---|---|---|\n|||||||\n||Income tax slab|||Tax rate||\n|||||||\n|||||||\n||0 to 3 Lakh|||0%||\n|||||||\n|||||||\n||3 Lakh to 6 Lakh|||5%||\n|||||||\n|||||||\n||6 Lakh to 9 Lakh|||10%||\n|||||||\n|||||||\n||9 Lakh to 12 Lakh|||15%||\n|||||||\n|||||||\n||12 Lakh to 15 Lakh|||20%||\n|||||||\n|||||||\n||15 Lakh and above|||30%||\n|||||||\n\n"
+            ]
+        },
+        {
+            "page": 5,
+            "tables": []
+        },
+        {
+            "page": 6,
+            "tables": [
+                "|Individuals less than 60 years:|Col2|Col3|Col4|Col5|Col6|\n|---|---|---|---|---|---|\n|||||||\n||Income tax slab|||Tax rate||\n|||||||\n|||||||\n||0 to 2.5 Lakh|||0%||\n|||||||\n|||||||\n||2.5 Lakh to 5 Lakh|||5%||\n|||||||\n|||||||\n||5 Lakh to 10 Lakh|||20%||\n|||||||\n|||||||\n||10 Lakh and above|||30%||\n|||||||\n\n",
+                "|Individuals to 60 - 80 years:|Col2|Col3|Col4|Col5|Col6|\n|---|---|---|---|---|---|\n|||||||\n||Income tax slab|||Tax rate||\n|||||||\n|||||||\n||0 to 3 Lakh|||0%||\n|||||||\n|||||||\n||3 Lakh to 5 Lakh|||5%||\n|||||||\n|||||||\n||5 Lakh to 10 Lakh|||20%||\n|||||||\n|||||||\n||10 Lakh and above|||30%||\n|||||||\n\n",
+                "|Individuals above 80 years:|Col2|Col3|Col4|Col5|Col6|\n|---|---|---|---|---|---|\n|||||||\n||Income tax slab|||Tax rate||\n|||||||\n|||||||\n||0 to 5 Lakh|||0%||\n|||||||\n|||||||\n||5 Lakh to 10 Lakh|||20%||\n|||||||\n|||||||\n||10 Lakh and above|||30%||\n|||||||\n\n"
+            ]
+        },
+        {
+            "page": 7,
+            "tables": []
+        },
+        {
+            "page": 8,
+            "tables": []
+        },
+        {
+            "page": 9,
+            "tables": []
+        },
+        {
+            "page": 10,
+            "tables": []
+        },
+        {
+            "page": 11,
+            "tables": [
+                "|S No|Col2|Immediate Family|Col4|Col5|Maximum|Col7|Dependent Parents|Col9|Maximum|Col11|Col12|Maximum Eligible deduction|Col14|\n|---|---|---|---|---|---|---|---|---|---|---|---|---|---|\n|||(Self, Spouse,|||Eligible in||||Eligible in|||in INR (inclusive of||\n|||Children)|||INR||||INR|||Preventive Health) Checkup)||\n|1|Senior Citizen|||50,000/-|||Senior Citizen|50,000/-|||50,000/- + 50,000/- = 100,000/-|||\n|2|Other than|||25,000/-|||Senior Citizen|50,000/-|||25,000/- + 50,000/- =|||\n||Senior Citizen||||||||||75,000/-|||\n|3|Other than Senior Citizen|||25,000/-|||Other than Senior Citizen|25,000/-|||25,000/- + 25,000/- = 50,000/-|||\n\n"
+            ]
+        },
+        {
+            "page": 12,
+            "tables": []
+        },
+        {
+            "page": 13,
+            "tables": [
+                "|Col1|Col2|Col3|Col4|Col5|Col6|Col7|Col8|Col9|\n|---|---|---|---|---|---|---|---|---|\n|||||Employer Contribution|||Employee Contribution||\n||||||||||\n||||||||||\n|Threshold Limit for Taxability|||Contribution Above 7.5 Lakh (Including PF, NPS and Superannuation)||||Interest Taxability if individual||\n||||||||employee **contribution exceeds||\n||||||||2.5 Lakh||\n||||||||(This **contribution includes VPF +||\n||||||||EPF)||\n||||||||||\n||||||||||\n||Chargeable to Income under||||||Interest portion on contribution||\n||section 10 (12)||||||above the threshold limit||\n||||||||||\n||||||||||\n||Taxable perquisites as per||Total Contribution (Less) 7.5 Lakh||||||\n||Sec 17(2)(vii) of the IT Act||||||||\n||1961 (On Contribution)||||||||\n||||||||||\n||||||||||\n|Taxable perquisites as per Sec 17(2)(viia) of the IT Act 1961 (On Income Earned)||||[(Amount more than 7.5 Lakh for the year|||||\n|||||/ 2) X Average rate of interest] +|||||\n|||||[(Aggregate value of contribution perks|||||\n|||||under 17(2) in previous years + Total|||||\n|||||Taxable perk u/s 17(2) in previous years)|||||\n|||||X Average rate of interest|||||\n||||||||||\n\n"
+            ]
+        },
+        {
+            "page": 14,
+            "tables": []
+        }
+    ],
+    "sections": [
+        {
+            "title": "**no_header**",
+            "page_nos": [
+                1
+            ],
+            "content": "A ready reckoner for Investment Declarations "
+        },
+        {
+            "title": "Income Tax Guidelines for FY 2023-24 ",
+            "page_nos": [
+                2,
+                3
+            ],
+            "content": "Table of contents \nContents \n1. New Tax Regime............................................................................................................................................... 4 \n2. Disallowed exemptions .................................................................................................................................. 5 \n3. Allowable exemptions .................................................................................................................................... 5 \n4. Traditional Tax Regime (Old): ....................................................................................................................... 6 \n5. Allowable exemptions .................................................................................................................................... 7 \n5.1. HRA Exemption u/s 10(13A): ............................................................................................................ 7 \n5.2. House Property Exemptions .............................................................................................................. 7 \n5.3. Deductions allowed under Section 80 C \n......................................................................................... 9 \n5.4. Investment in Pension Scheme of LIC or any other insurer  \n(e.g. Jeevan Suraksha of LIC or any other Pension Plan) u/s 80 CCC .................................. 10 \n5.5. Investment in pension scheme created by Government of India u/s 80CCD .................... 10 \n5.6. Investment in Agnipath Scheme u/s 80CCH .............................................................................. 10 \n5.7. Mediclaim Insurance Premium u/s 80 D ....................................................................................... 11 \n5.8. Deduction in respect of maintenance, including medical treatment, of a  \ndisabled dependent ........................................................................................................................... 11 \n5.9. Deduction in respect of person with disability u/s 80U ......................................................... 12 \n5.10. Interest on Education Loan u/s 80E \n.............................................................................................. 12 \n5.11. Interest on electric vehicle Loan. (Section 80EEB) \n.................................................................. 12 \n5.12. Deductions for Rent Paid (Section 80GG) .................................................................................. 12 \n6. COMMON / GENERAL DETAILS ............................................................................................................... 13 \n6.1. Previous Employer Income ............................................................................................................... 13 \n6.2. Previous Employer PT........................................................................................................................ 13 \n6.3. Tax Deducted by Previous Employer ............................................................................................ 13 \n6.4. Provident Fund Taxation .................................................................................................................. 13 \nThis document provides information on relevant provisions of the Income Tax Act, 1961 with reference to Salary \nIncome - deductions available under income tax act for salaried employees  \nImportant:  \n\u2022 \nAny one of the below tax structures can be applied for tax computation  \no New Tax Regime - (page 2)  \no Traditional (Old) Tax Regime - (page 4)  \n\u2022 \nFor each April, every individual employee gets an option to choose in between the new and  \no Traditional (old) tax regime. Also, once if the employee chooses the \u201cOld\u201d tax regime, he or  \nshe cannot change their choice through payroll but can make the necessary changes while filing their \nITR.  \nIn case an individual fail to select any option, new tax would be applied (as stated under income tax \nact & finance bill 2023 Section 115BAC)  \n\u2022 \nPlease note that investments /payments during the year April 2023- March 2024 alone will be \nconsidered. \n\u2022 \nNote: Transport allowance for disabled person of Rs.3200 per month remains the same  \n(for traditional tax regime).  \n\u2022 \nTax exemption towards the Employer contribution to Provident Fund (PF), NPS and superannuation fund \nrestricted to 7.5 Lakh per annum. Thus, anything contributed over and above 7.5 Lakh would be taxable \nin the hand of the employee. This is applicable to both new and traditional tax regime  \n\u2022 \nFor individual who are contributing more than 2.5 Lakh under PF (Both EPF + VPF), then the interest \nearned on excess contribution would be calculated as taxable income (Budget 2021 amendment) \n\u2022 \nIn case the investment declaration forms (online submissions) are not received by the due date, TDS will \nbe deducted based on the assumption that there is no investment.  \n\u2022 \nIn case an individual fails to file income tax return on or before due date, then appropriate penalty would \nbe imposed on such defaulting individuals. "
+        },
+        {
+            "title": "1. New Tax Regime  ",
+            "page_nos": [
+                4
+            ],
+            "content": "From April 2023, all tax-payers have the option to choose the \"new and reduced\" tax rates for themselves and plan \ntheir annual investment accordingly.  \nTAX RATES: The same rate table applies to all individuals (irrespective of the age group) Thus there are no senior or \nsuper senior citizen limits under the new tax regime.  \nIncome tax slab \nTax rate \n0 to 3 Lakh \n0% \n3 Lakh to 6 Lakh \n5% \n6 Lakh to 9 Lakh \n10% \n9 Lakh to 12 Lakh \n15% \n12 Lakh to 15 Lakh \n20% \n15 Lakh and above \n30% \nNote: 4% of Health & education cess is to be levied on the total tax payable. \nSurcharge @ 10% is to be levied on tax payable if the total income exceeding Rs.50 Lac but not exceeding Rs.1 crore, Marginal relief if applicable. \nSurcharge @ 15% is to be levied on tax payable if the total income exceeding Rs.1 crore-2 crore, Marginal relief if applicable. \nSurcharge @ 25% is to be levied on tax payable if the total income exceeding Rs.2 crore, Marginal relief f applicable. \nSection 87A: Rebate of Rs.25000 for individuals having total income up to Rs.700000  \n(87A) An assessee, being an individual resident in India, whose net taxable income does not exceed Rs.700000, the \nrebate shall be equal to the amount of income tax payable on the total income for any assessment year or an amount \nof Rs.25000, whichever is less.  "
+        },
+        {
+            "title": "<table>",
+            "page_nos": [
+                4
+            ],
+            "content": "|TAX RATES: The same rate table applies to all individuals super senior citizen limits under the new tax regime.|Col2|Col3|(irrespective of the age group) Thus there are no senior or|Col5|Col6|\n|---|---|---|---|---|---|\n|||||||\n||Income tax slab|||Tax rate||\n|||||||\n|||||||\n||0 to 3 Lakh|||0%||\n|||||||\n|||||||\n||3 Lakh to 6 Lakh|||5%||\n|||||||\n|||||||\n||6 Lakh to 9 Lakh|||10%||\n|||||||\n|||||||\n||9 Lakh to 12 Lakh|||15%||\n|||||||\n|||||||\n||12 Lakh to 15 Lakh|||20%||\n|||||||\n|||||||\n||15 Lakh and above|||30%||\n|||||||\n\n"
+        },
+        {
+            "title": "2. Disallowed exemptions ",
+            "page_nos": [
+                5
+            ],
+            "content": "While you may enjoy reduced rates of tax, you as a taxpayer must forgo the below listed exemptions and allowances. \nHence, if you choose the new tax regime no deduction or exemptions would be available under:  \n\u2022 \nAll chapter VIA section - 80C, 80CCC, 80CCD, 80D, 80DD, 80DDB, 80E, 80EEA, 80EEB, 80G, 80IA, 80IAB, \n80IAC, 80IB, 80IBA, 80Uetc. (Excluding Section 80CCD (2))  \n\u2022 \nHouse Rent Allowance under section 10 (13A)  \n\u2022 \nLeave Travel Concession under section 10(5)  \n\u2022 \nSpecial Allowance under section 10(14) (such as Children education allowance, Hostel Allowance, Per \ndiem Allowance, Uniform Allowance, etc.)  \n\u2022 \nInterest on borrowed loan for a self-occupied property (Rented property not covered) under section 24. \n(Note: Interest claim for let out property remains the same)  \n\u2022 \nEntertainment allowance, Employment / Professional tax under section 16.  \n\u2022 \nSet off of any loss, under the head \u201cIncome from house property\u201d with any other head of income;  \n\u2022 \nAny exemption or deduction for allowances or perquisite, by whatever name called, provided under any \nother law for the time being in force.  \n\u2022 \nIncome by way of daily allowance / any other allowance received by MP, member of state legislature, etc. \nunder section 10(17) \nVery Important Note: If the Individual fails to comply the conditions mentioned as above; their option would be \nconsidered invalid, and the taxes would be calculated as if the option had not been exercised for the assessment year \nrelevant to the previous year.  "
+        },
+        {
+            "title": "3. Allowable exemptions ",
+            "page_nos": [
+                5
+            ],
+            "content": "Therefore, let\u2019s understand the benefits that are applicable if one chooses the new tax regime.  \n\u2022 \nStandard Deduction \n\u2022 \nYou may claim interest paid on a home loan towards a let-out(rented) house property under section 24. \nHowever, please note that when you apply this interest to the calculations of income/loss from house \nproperty (standard deduction of 30% of rental income and all applicable taxes), if there is net loss, the \nsame will not be adjusted against any other source of income.  \n\u2022 \nSection 80CCD (2) employer contribution under National Pension Scheme (NPS). \n\u2022 \nEmployer contribution to Provident Fund (PF), NPS and superannuation fund restricted to  \n7.5 Lakh per annum. \n\u2022 \nGratuity \n\u2022 \nTravel allowance and reimbursement to the employee for official purposes.  \n\u2022 \nLeave encashment on retirement  \n\u2022 \nAmount received on Voluntary retirement scheme (VRS) up to INR 5 lakh "
+        },
+        {
+            "title": "4. Traditional Tax Regime (Old): ",
+            "page_nos": [
+                6
+            ],
+            "content": "The below exemption and details continue to apply if an individual employee chooses to continue the existing \n(traditional) tax rules.  \nIndividuals less than 60 years:  \nIncome tax slab \nTax rate \n0 to 2.5 Lakh \n0% \n2.5 Lakh to 5 Lakh \n5% \n5 Lakh to 10 Lakh \n20% \n10 Lakh and above \n30% \nIndividuals to 60 - 80 years:  \nIncome tax slab \nTax rate \n0 to 3 Lakh \n0% \n3 Lakh to 5 Lakh \n5% \n5 Lakh to 10 Lakh \n20% \n10 Lakh and above \n30% \nIndividuals above 80 years:  \nIncome tax slab \nTax rate \n0 to 5 Lakh \n0% \n5 Lakh to 10 Lakh \n20% \n10 Lakh and above \n30% \nNote: 4% of Health & education cess is to be levied on the total tax payable.  \nSurcharge @ 10% is to be levied on tax payable if the total income exceeding Rs.50 Lac but not exceeding Rs.1 crore, Marginal relief if applicable.  \nSurcharge @ 15% is to be levied on tax payable if the total income exceeding Rs.1 crore, Marginal relief if applicable.  \nSurcharge @ 25% is to be levied on tax payable if the total income exceeding Rs.2 crore - 5 crore, Marginal relief if applicable.  \nSurcharge @ 37%% is to be levied on tax payable if the total income exceeding Rs.5 crore, Marginal relief if applicable.  \nSection 87A: Rebate of Rs.12500 for individuals having net taxable income up to Rs.500000 An assessee,  \nbeing an individual resident in India, whose total income does not exceed Rs.500000, the rebate shall be equal to the \namount of income tax payable on the total income for any assessment year or an amount of Rs.12500, whichever is \nless. "
+        },
+        {
+            "title": "<table>",
+            "page_nos": [
+                6
+            ],
+            "content": "|Individuals less than 60 years:|Col2|Col3|Col4|Col5|Col6|\n|---|---|---|---|---|---|\n|||||||\n||Income tax slab|||Tax rate||\n|||||||\n|||||||\n||0 to 2.5 Lakh|||0%||\n|||||||\n|||||||\n||2.5 Lakh to 5 Lakh|||5%||\n|||||||\n|||||||\n||5 Lakh to 10 Lakh|||20%||\n|||||||\n|||||||\n||10 Lakh and above|||30%||\n|||||||\n\n"
+        },
+        {
+            "title": "<table>",
+            "page_nos": [
+                6
+            ],
+            "content": "|Individuals above 80 years:|Col2|Col3|Col4|Col5|Col6|\n|---|---|---|---|---|---|\n|||||||\n||Income tax slab|||Tax rate||\n|||||||\n|||||||\n||0 to 5 Lakh|||0%||\n|||||||\n|||||||\n||5 Lakh to 10 Lakh|||20%||\n|||||||\n|||||||\n||10 Lakh and above|||30%||\n|||||||\n\n"
+        },
+        {
+            "title": "<table>",
+            "page_nos": [
+                6
+            ],
+            "content": "|Individuals to 60 - 80 years:|Col2|Col3|Col4|Col5|Col6|\n|---|---|---|---|---|---|\n|||||||\n||Income tax slab|||Tax rate||\n|||||||\n|||||||\n||0 to 3 Lakh|||0%||\n|||||||\n|||||||\n||3 Lakh to 5 Lakh|||5%||\n|||||||\n|||||||\n||5 Lakh to 10 Lakh|||20%||\n|||||||\n|||||||\n||10 Lakh and above|||30%||\n|||||||\n\n"
+        },
+        {
+            "title": "5. Allowable exemptions  ",
+            "page_nos": [],
+            "content": ""
+        },
+        {
+            "title": "5.1. HRA Exemption u/s 10(13A):  ",
+            "page_nos": [
+                7
+            ],
+            "content": "\u2022 \nAn employee cannot claim HRA exemption if employee himself resides in his own house.  \n\u2022 \nAn employee who does not pay rent for his/her accommodation is not eligible to claim HRA exemption. \n\u2022 \nExemption under this section is allowed for those employees who pay rent for their accommodation.  \nThe exemption is restricted to a minimum of:  \no Actual HRA received  \no Actual Rent paid Less 10% of the salary  \no 50% in case of metro cities and 40% of the salary in any other case.  \n\u2022 \nHRA received, which is more than the above limits, is taxable. Salary for this purpose means, Basic, \ndearness allowance if the terms of employment and Commission based on Fixed Percentage  \nDocuments required to avail HRA Deduction  \na. Copy of House Agreement along with Rent Receipts  \nb. Rent receipts given by Landlord  \nc. PAN, name and address of the landlord in case the rental payment exceeds Rs.1 Lac for the  \nfinancial year.  \nProof of Rent Paid Should Give Details of \na. Name and address of landlord  \nb. Address of rented premises for which rent paid  \nc. Period for which rent paid & the amount  \nNote:  \nAs per Form 12BB, if the Annual Rent paid by the employee exceeds Rs.1,00,000 per annum, it is mandatory for the \nemployee to report the PAN or AADHAAR Number, name and address of the Landlord. Notification Link: \nhttp://www.incometaxindia.gov.in/communications/notification/notification30_2016.pdf   \nPlease note: The TDS return filed based on the details keyed in by you under HRA tab, allows the company to only \nenter upto 4 landlord details. Also the TDS return form (24Q) doesnt yet allow the company to enter proper \nbifurcation (i.e. amount and months rent paid). Thus HRA shown by individual might not match with the ITR income \nof the landlord. Please inform the landlord accordingly. "
+        },
+        {
+            "title": "5.2. House Property Exemptions  ",
+            "page_nos": [
+                7,
+                8,
+                9
+            ],
+            "content": "Interest paid on Housing Loan for self-occupied property u/s 24  \nInterest paid on housing loan availed for a self-occupied property can be set off against salary income. To avail  \nthis benefit:  \na. House property should be in the name of the employee who claims this deduction.  \nb. If the capital for acquisition/construction of house is borrowed before 01-Apr-1999 the salary income \ncan be set off against interest paid subject to maximum of INR 30,000 per annum.  \nc. If the capital for acquisition/construction of house is borrowed on or after 01-Apr-1999 and \nthe construction/purchase is completed within 5 years before end of Financial year in which loan is \ntaken, the salary income can be set off against interest paid subject to maximum of INR 2,00,000 p.a.  \nd. If the loan taken for reconstruction or repairs or renewal of existing house, then the maximum deduction \ncan be allowed only to the extent of INR 30,000 per annum.  \nDEEMED LET OUT: From 2019 onwards, if an individual is in possession of more than one self-occupied house \nproperty or vacant house property or house property occupied by the, the individual can choose two properties of his \nchoice as self-occupied. Any other property(ies) would be deemed as let out and notional rental income would be \ncalculated accordingly.  \nNote: The limit of Rs.2 Lac of self-occupied house property remains unchanged. Thus, total interest for 2 houses \ncannot exceed Rs. 2 Lac (Irrespective what interest one is paying and also for self-occupied one cannot carry forward \nthe unclaimed value)  \nInterest paid on housing loan for let out property u/s 24  \nThe rent received from let out property should be disclosed as an income. From the above income following \ndeductions can be claimed:  \na. Property tax paid during the year for the let-out property.  \nb. 30% of Net Annual Value (Rental Income less Property tax) can be claimed for repairs and maintenance \nof the house irrespective of the expenses incurred.  \nc. Interest payable on housing loan for let out property can be claimed as deduction with no upper limits.  \nAdjustment of Net Loss under house property (Section 71)  \nAs per the amendment made during 2017 budget, set-off of house property losses (Section 71) against any other \nsource of income is restricted up to Rs.2 Lac only. Thus, based on the above restriction, the overall net loss to be \nclaimed under house property (irrespective of let out or self-occupied or any number of house properties) would be \nrestricted to Rs.2 lac alone. No amount exceeding Rs.2 Lac would be eligible for the claim. `But in case there is any \nunadjusted house property losses would be eligible to carry forward and claim in the next 8 years.  \nPlease Note: The carry forwarded losses can be adjusted only against \"Income from House property\". Thus, \nno such losses can be adjusted against salary income.  \nAdditional deduction for Interest paid on Housing Loan for self-occupied property u/s 80EE  \nIndividual can claim additional benefit Rs.50000 in case interest paid, if he complies with the below conditions:  \na. First time home buyer in FY 2016-17 i.e. assesse doesn\u2019t own any house property on the loan  \nsanction date.  \nb. Loan was sanctioned in between 1st April 2016 to 31st March 2017.  \nc. Loan sanction amount doesn\u2019t exceed Rs.35,00,000.  \nd. Value of house property doesn\u2019t exceed Rs.50,00,000.  \nPlease note: The claim is allowed only if the employee has paid the interest. This is not a standard deduction. \nPlease verify section 24 and the total interest paid before giving the claim. \nAdditional deduction for Interest paid on Housing Loan for self-occupied property u/s 80EEA  \nIndividual can claim additional benefit Rs.150000 in case interest paid, if he complies with the below conditions:  \na. First time home buyer in FY 2019-22 i.e. assesse doesn\u2019t own any house property on the loan  \nsanction date.  \nb. Loan was sanctioned in between 1st April 2019 to 31st March 2022 \nc. Stamp Value of property doesn\u2019t exceed Rs.45,00,000.  \nDocuments required for availing House Property Exemptions:  \na. Statement/Certificate from Financial Institution / Bank for the interest payable on home loan giving the \nbreakup of interest and principle repayment and the date of loan sanction.  \nb. Duly Signed Declaration Form with details of House Property whether it is self-occupied or let out.  \nc. Completion certificate of the House Property.  \nd. Most importantly, in case of Joint Loan (Joint Names in Interest certificate), Joint declaration to be \nprovided stating amount of claim.  \ne. Statement claiming that this is first house owned and have no pending home loan in his name (In case to \nclaim Section 80EE).  \nPlease note: The claim is allowed only if the employee has paid the interest. This is not a standard deduction. \nPlease verify section 24 and the total interest paid before giving the claim. "
+        },
+        {
+            "title": "5.3. Deductions allowed under Section 80 C  ",
+            "page_nos": [
+                9,
+                10
+            ],
+            "content": "a. Payment of Life Insurance Premiums for Self/Spouse/Children. \nb. Contribution to Public Provident Fund for Self/Spouse/Children. \nc. Contribution to Unit Trust of India in the name of self. \nd. Investments in National Savings Certificate only in the name of self. \ne. Interest accrued on National Savings Certificate (Copy of NSC Certificates of the previous years must be \nsubmitted to get rebate on NSC accrued Interest).  \nf. Principal repayment on Housing Loan. Also Stamp duty and registration fees paid for acquiring the  \nhouse property.  \ng. Contribution (including Voluntary Cont.) to Employee Provident Fund. \nh. Investments in National Savings Scheme (NSS). \ni. Tax Saving Bonds / Infrastructure Bonds. \nj. Investments in Tax saving Mutual Fund or Equity Linked Saving Scheme / Systematic Investment  \nPlan (SIP). \nk. Child Tuition Fees and Expenditure. \nl. Tax Saving Fixed Deposits (With Minimum Lock in period of 5 Years). \nm. Investment in Post Office Time Deposits (With Minimum Lock in period of 5 Years).  \nn. Senior Citizen Saving Scheme 2004 \no. Post Office Time Deposit Account \np. Sukanya Samriddhi Yojana: \na. The scheme applies to investment for girl child below 10 years.  \nb. Any amount deposited in specified post office account or any designated branch of PSU bank as an \ninvestment for girl child restricted 2 girl children.  \nc. Minimum investment is Rs.1000/- and extend up to overall 80C, 80CCC, 80CCD limit of Rs. 150,000/- \nd. The account matures when the girl reaches 21 years, though up to 50%of the corpus can be \nwithdrawn after she is 18 or gets married.  \ne. The investments made in the Scheme, the interest accruing on deposits in such account and the \nwithdrawal from the said scheme in accordance with the rules of the said scheme will be exempt from \ntax. Maximum investments under the above investment schemes are restricted to INR 1,50,000 per \nyear.  \nDocuments required to claim deduction:  \nCopy of Proof of Investment made during the current financial year.  "
+        },
+        {
+            "title": "5.4. Investment in Pension Scheme of LIC or any other insurer ",
+            "page_nos": [],
+            "content": ""
+        },
+        {
+            "title": "(e.g. Jeevan Suraksha of LIC or any other Pension Plan) u/s ",
+            "page_nos": [],
+            "content": ""
+        },
+        {
+            "title": "80 CCC  ",
+            "page_nos": [
+                10
+            ],
+            "content": "Premium paid for pension scheme is allowed as deduction from Total Income. Documents required:  \na. Copy of current year premium receipt  "
+        },
+        {
+            "title": "5.5. Investment in pension scheme created by Government of ",
+            "page_nos": [],
+            "content": ""
+        },
+        {
+            "title": "India u/s 80CCD ",
+            "page_nos": [
+                10
+            ],
+            "content": "a. Under Section 80CCD (1) - Employee contribution exemption claim for notified NPS up to a maximum of \n10 % of Basic Salary  \nb. Note: The maximum investment limit allowed under the above sections 80C, 80CCC, 80CCD (1) is INR \n1,50,000 per year.  \nc. Section 80CCD (2) employer contribution under National Pension Scheme (NPS). Please note that when \ntaken along with employer contributions to Provident Fund (PF) and superannuation fund this is \nrestricted to 7.5 Lakh per annum for tax exemption.  \nd. Under Section 80CCD (1B), an additional tax exemption of Rs.50,000 is to be provided for the amount \ninvested in National Pension Scheme. The amount of exemption is over and above the limit.  \nNote:  \nTo claim under NPS scheme, all contribution needs to be made under Tier I scheme  \nDocuments required to claim deduction:  \na. Copy of Proof of Investment made during the current financial year.  "
+        },
+        {
+            "title": "5.6. Investment in Agnipath Scheme u/s 80CCH ",
+            "page_nos": [
+                10
+            ],
+            "content": "Where an individual has enrolled in the Agnipath Scheme or has contributed to the Agniveer Corpus Fund has in \nthe previous year paid or deposited any amount in his account, he or she shall be allowed a tax exemption of the \nwhole of the amount so paid or deposited. \nDocuments required to claim this: The contribution payment acknowledgment copy "
+        },
+        {
+            "title": "5.7. Mediclaim Insurance Premium u/s 80 D  ",
+            "page_nos": [
+                11
+            ],
+            "content": "Medical Insurance premium is allowed as deduction up to INR 25,000/- per year for self, spouse &  \ndependent children. An additional 25,000/- is allowed as deduction towards premium for parents (even if they are \nnot dependent).  \nIn case of senior citizen above 60 years of age, then a total amount of 50,000/- can be claimed.  \nS No \nImmediate Family \n(Self, Spouse, \nChildren) \nMaximum \nEligible in \nINR \nDependent \nParents \nMaximum \nEligible in \nINR \nMaximum Eligible deduction \nin INR (inclusive of \nPreventive Health) Checkup) \n1 \nSenior Citizen \n50,000/- \nSenior Citizen \n50,000/- \n50,000/- + 50,000/- = \n100,000/- \n2 \nOther than \n25,000/- \nSenior Citizen \n50,000/- \n25,000/- + 50,000/- = \nSenior Citizen \n75,000/- \n3 \nOther than \nSenior Citizen \n25,000/- \nOther than \nSenior Citizen \n25,000/- \n25,000/- + 25,000/- = \n50,000/- \nNote:  \nPreventive Health Checkup for self, spouse, dependent children or parents are also allowed to the extent of \nRs.5,000/- per year (which is part of overall above limits)  \nAdvance payment claim:  \nWhere premium amount is paid in lump sum in the previous year to effect or to keep in force an insurance on the \nhealth of any person specified therein for more than a year: such amount shall be allowed for each of the relevant \nprevious year, a deduction equal to the appropriate fraction of the amount.  \nDocuments required:  \nCurrent Year Receipt for payment of Mediclaim insurance premium.  \nMedical expenses for Senior Citizen \n\u2022 \nOnly if the individual for whom one is claiming is 60 year and above \n\u2022 \n Have no insurance in their name (individual or corporate) \nThen upto Rs.50,000 medical expenses can be claimed after submitting necessary bills. "
+        },
+        {
+            "title": "5.8. Deduction in respect of maintenance, including medical ",
+            "page_nos": [],
+            "content": ""
+        },
+        {
+            "title": "treatment, of a disabled dependent  ",
+            "page_nos": [
+                11
+            ],
+            "content": "u/s 80 DD  \nThe amount of deduction is  \na. Rs.75,000 to a person with disability (above 40% and less than 80%), and  \nb. Rs.1,25,000 to a person with severe disability (Above 80%)  \nDocuments required:  \na. Form 10IA & self-declaration for expenses incurred for this specific cause  \nb. As per recent amendment, medical prescription providing all details of disease and patient is also \nallowable document for claim instead of Form 10IA.  "
+        },
+        {
+            "title": "<table>",
+            "page_nos": [
+                11
+            ],
+            "content": "|S No|Col2|Immediate Family|Col4|Col5|Maximum|Col7|Dependent Parents|Col9|Maximum|Col11|Col12|Maximum Eligible deduction|Col14|\n|---|---|---|---|---|---|---|---|---|---|---|---|---|---|\n|||(Self, Spouse,|||Eligible in||||Eligible in|||in INR (inclusive of||\n|||Children)|||INR||||INR|||Preventive Health) Checkup)||\n|1|Senior Citizen|||50,000/-|||Senior Citizen|50,000/-|||50,000/- + 50,000/- = 100,000/-|||\n|2|Other than|||25,000/-|||Senior Citizen|50,000/-|||25,000/- + 50,000/- =|||\n||Senior Citizen||||||||||75,000/-|||\n|3|Other than Senior Citizen|||25,000/-|||Other than Senior Citizen|25,000/-|||25,000/- + 25,000/- = 50,000/-|||\n\n"
+        },
+        {
+            "title": "5.9. Deduction in respect of person with disability u/s 80U  ",
+            "page_nos": [
+                12
+            ],
+            "content": "Deduction is allowed for a person suffering from a permanent physical disability or mental Retardation under sec \n80U. The amount of deduction is:  \na. 75,000 to a person with disability (above 40% and less than 80%) \nb. 1,25,000 to a person with severe disability (Above 80%) \nDocuments required:  \na. Form 10IA  \nb. As per recent amendment, medical prescription providing all details of disease and patient is also \nallowable document for claim instead of Form 10IA.  "
+        },
+        {
+            "title": "5.10. ",
+            "page_nos": [],
+            "content": ""
+        },
+        {
+            "title": "Interest on Education Loan u/s 80E  ",
+            "page_nos": [
+                12
+            ],
+            "content": "The total amount of interest paid for self and dependents towards education loan taken for higher education \nextended to all courses pursued after Senior Secondary Examination from any school, board or university \nrecognized by the Central Government or State Government or local authority or by any other authority authorized \nby the Central Government or State Government or local authority to do so will be allowed as deduction over a \nperiod of 8 years or until the interest is paid by the assesse in full, whichever is earlier.  \nDocuments required to claim deduction:  \na. Proof for repayment of educational loan for the amount claimed  "
+        },
+        {
+            "title": "5.11. ",
+            "page_nos": [],
+            "content": ""
+        },
+        {
+            "title": "Interest on electric vehicle Loan. (Section 80EEB)  ",
+            "page_nos": [
+                12
+            ],
+            "content": "An individual who taken up a loan for purchase of electric vehicle from any financial institution:  \n\u2022 \nLoan sanction date is in between 1 April 2019 to 31 March 2023,  \nSuch an individual can claim interest deduction on such loan payment up to Rs.1.5 lac.  "
+        },
+        {
+            "title": "5.12. ",
+            "page_nos": [],
+            "content": ""
+        },
+        {
+            "title": "Deductions for Rent Paid (Section 80GG)  ",
+            "page_nos": [
+                12
+            ],
+            "content": "Assesse can claim rent paid under this section up to lower of the three:  \n1) Rent paid minus 10% of the adjusted total income.  \n2) \u20b95,000 per month  \n3) 25% of the adjusted total income  \nIf the following conditions are complied with:  \n\u2022 \nNo HRA component in salary structure \n\u2022 \nNeither the assesse, spouse, nor minor child should not own any house in their names. Also, the assesse \nmust not own any other place or accommodation in the occupation of the assesse "
+        },
+        {
+            "title": "6. COMMON / GENERAL DETAILS  ",
+            "page_nos": [],
+            "content": ""
+        },
+        {
+            "title": "6.1. Previous Employer Income  ",
+            "page_nos": [
+                13
+            ],
+            "content": "\u2022 \nIncome period should be after 1st of April in the current financial year.  \n\u2022 \nA statement / certificate (form 12B) showing the computation of tax and the income details with \nbreakup along with seal of previous employer.  \n\u2022 \nOnly salary after section 10 alone should be taken.  "
+        },
+        {
+            "title": "6.2. Previous Employer PT  ",
+            "page_nos": [
+                13
+            ],
+            "content": "\u2022 \nProfession Tax deducted by Previous employer for the current financial year to be taken  "
+        },
+        {
+            "title": "6.3. Tax Deducted by Previous Employer  ",
+            "page_nos": [
+                13
+            ],
+            "content": "\u2022 \nTax Deducted and remitted by Previous Employer alone should be taken for deduction  \n\u2022 \nIt should be for the period 1st April to 31st March of the current financial year.  "
+        },
+        {
+            "title": "6.4. Provident Fund Taxation ",
+            "page_nos": [
+                13
+            ],
+            "content": "Employer Contribution \nEmployee Contribution \nThreshold Limit for \nTaxability \nContribution Above 7.5 Lakh (Including \nPF, NPS and Superannuation) \nInterest Taxability if individual \nemployee **contribution exceeds \n2.5 Lakh \n(This **contribution includes VPF + \nEPF) \nChargeable to Income under \nsection 10 (12) \nInterest portion on contribution \nabove the threshold limit \nTaxable perquisites as per \nSec 17(2)(vii) of the IT Act \n1961 (On Contribution) \nTotal Contribution (Less) 7.5 Lakh \nTaxable perquisites as per \nSec 17(2)(viia) of the IT Act \n1961 (On Income Earned) \n[(Amount more than 7.5 Lakh for the year \n/ 2) X Average rate of interest] + \n[(Aggregate value of contribution perks \nunder 17(2) in previous years + Total \nTaxable perk u/s 17(2) in previous years) \nX Average rate of interest "
+        },
+        {
+            "title": "<table>",
+            "page_nos": [
+                13
+            ],
+            "content": "|Col1|Col2|Col3|Col4|Col5|Col6|Col7|Col8|Col9|\n|---|---|---|---|---|---|---|---|---|\n|||||Employer Contribution|||Employee Contribution||\n||||||||||\n||||||||||\n|Threshold Limit for Taxability|||Contribution Above 7.5 Lakh (Including PF, NPS and Superannuation)||||Interest Taxability if individual||\n||||||||employee **contribution exceeds||\n||||||||2.5 Lakh||\n||||||||(This **contribution includes VPF +||\n||||||||EPF)||\n||||||||||\n||||||||||\n||Chargeable to Income under||||||Interest portion on contribution||\n||section 10 (12)||||||above the threshold limit||\n||||||||||\n||||||||||\n||Taxable perquisites as per||Total Contribution (Less) 7.5 Lakh||||||\n||Sec 17(2)(vii) of the IT Act||||||||\n||1961 (On Contribution)||||||||\n||||||||||\n||||||||||\n|Taxable perquisites as per Sec 17(2)(viia) of the IT Act 1961 (On Income Earned)||||[(Amount more than 7.5 Lakh for the year|||||\n|||||/ 2) X Average rate of interest] +|||||\n|||||[(Aggregate value of contribution perks|||||\n|||||under 17(2) in previous years + Total|||||\n|||||Taxable perk u/s 17(2) in previous years)|||||\n|||||X Average rate of interest|||||\n||||||||||\n\n"
+        },
+        {
+            "title": "Thank you ",
+            "page_nos": [],
+            "content": ""
+        }
+    ]
+}
