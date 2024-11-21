@@ -25,7 +25,7 @@ class PDFExtractor:
             raise Exception(f"Please provide a valid PDF path. Giveen path :: {pdf_path}")
         
         extension = self.pdf_filename.split(".")[-1]
-        if extension != "pdf":
+        if extension.lower() != "pdf":
             raise Exception(
                 f"Invalid PDF extension :: expected extension :: ***.pdf :: {self.pdf_filename} has extension {extension}"
                 )
