@@ -94,13 +94,21 @@ class PDFExtractor:
                 self.tables_dict_lst.append({"page": page_cnt, "tables": table_lst})
 
             dicts = page.get_text(option="dict")
+            if len(dicts["blocks"]) == 0:
+                continue
+            lines_present = any(["lines" in dct for dct in dicts["blocks"]])
             dicts = [self.get_header4block(blk) for blk in dicts["blocks"]]
             dicts_df = pd.DataFrame(dicts)
             dicts_df["pg_blk"] = [str(page_cnt) + "." + str(num) for num in dicts_df["number"]]
-            dicts_df["text_lst"] = [
-                self.retrieve_text_from_lines(lines) if blk_type == 0 else ""
-                for blk_type, lines in zip(dicts_df["type"], dicts_df["lines"])
-            ]
+            
+            if lines_present:
+                dicts_df["text_lst"] = [
+                    self.retrieve_text_from_lines(lines) if blk_type == 0 else ""
+                    for blk_type, lines in zip(dicts_df["type"], dicts_df["lines"])
+                ]
+            else:
+                dicts_df["text_lst"] = [[]]
+                dicts_df["lines"] = [[]]
             dicts_df = dicts_df[dicts_df["type"] == 0].reset_index(drop = True)
             req_cols = ["number", "type", "bbox", "lines", "header_lst", "pg_blk", "text_lst"]
             dicts_df = dicts_df[req_cols]
